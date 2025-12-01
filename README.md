@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi, I'm Abhishek 👋</h1>
+<h3 align="center">Java Developer | Spring Boot | MySQL | API Design | Linux</h3>
 
-<!--
-**AeroByte-Abhishek/AeroByte-Abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final-year BCA student  
+- 🔧 Building projects using **Java, Spring Boot, MySQL, Spring Security, Docker**  
+- 💡 I enjoy creating clean backend architectures & exploring system design  
+- 🧠 Currently learning: **Spring Security, AOP, Docker, Basics of System Design**  
+- 🎯 Goal: Become a strong Java Backend Developer and crack top IT companies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Skills & Tech Stack
+
+### 💻 **Backend**
+- Java (Core & OOP)  
+- Spring Boot, Spring MVC  
+- Spring Security & JWT  
+- Hibernate, JPA  
+
+### 🗄️ **Database**
+- MySQL  
+- JDBC  
+- Query Optimization Basics  
+
+### 🛠️ **Tools**
+- Git & GitHub  
+- Postman  
+- VS Code & IntelliJ IDEA  
+- Linux (Mint Cinnamon)
+
+### ☁️ **Other**
+- Docker (Beginner)  
+- System Design (HLD Basics)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Ticket Booking System (Java + MySQL)**
+A complete mini real-world backend project  
+- Role-based login  
+- Ticket generation  
+- Database persistence  
+- Clean modular architecture  
+👉 *[Repository Link](#)*
+
+---
+
+### 🔹 **Spring Boot Contact Form API**
+- REST endpoints  
+- Input validation  
+- Email service integration  
+👉 *[Repository Link](#)*
+
+---
+
+### 🔹 **Agriconnect – Static Website**
+- Pure HTML + CSS + JS  
+- Clean UI  
+- Modern animations  
+👉 *[Repository Link](#)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
