@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Abhishek 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=00CDEE&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+AI+%7C+Spring+Security;REST+APIs+%26+Microservices;MySQL+%7C+Database+Design;Spring+Data+JPA+%7C+Hibernate;Always+Improving+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=700&color=8EF8B1&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security;REST+API+Design;MySQL+%7C+Efficient+Schemas;Spring+Data+JPA+%7C+Hibernate;Building+Reliable+Backend+Systems" alt="Typing SVG" />
 </div>
 
 
