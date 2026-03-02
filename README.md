@@ -51,7 +51,7 @@ A complete mini real-world backend project
 - Ticket generation  
 - Database persistence  
 - Clean modular architecture  
-👉 *[Repository Link](#)*
+👉 *Not available right now*
 
 ---
 
@@ -59,7 +59,7 @@ A complete mini real-world backend project
 - REST endpoints  
 - Input validation  
 - Email service integration  
-👉 *[Repository Link](#)*
+👉 *Not available right now*
 
 ---
 
@@ -67,7 +67,7 @@ A complete mini real-world backend project
 - Pure HTML + CSS + JS  
 - Clean UI  
 - Modern animations  
-👉 *[Repository Link](#)*
+👉 *Not available right now*
 
 ---
 
@@ -83,10 +83,10 @@ A complete mini real-world backend project
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-mishra-1251282a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:abhishekmishra.contactme@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
