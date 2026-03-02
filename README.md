@@ -55,11 +55,11 @@ A complete mini real-world backend project
 
 ---
 
-### 🔹 **Spring Boot Contact Form API**
+### 🔹 **Spring Boot Bulk Email Sender API**
 - REST endpoints  
 - Input validation  
 - Email service integration  
-👉 *Not available right now*
+👉 *https://github.com/AeroByte-Abhishek/Bulk-Email-Sender*
 
 ---
 
